@@ -1,9 +1,9 @@
 # Combinatory Chemistry
 
 This is the code for simulating the system described in 
-"Emergence of Self-Reproducing Metabolisms as Recursive Algorithms in an Artificial Chemistry" by
+["Emergence of Self-Reproducing Metabolisms as Recursive Algorithms in an Artificial Chemistry"](https://direct.mit.edu/artl/article/27/3%E2%80%934/277/109957/Emergence-of-Self-Reproducing-Metabolisms-as) by
 Germán Kruszewski and Tomas Mikolov. 
-https://arxiv.org/abs/2103.08245
+
 
 
 ## Requirements
